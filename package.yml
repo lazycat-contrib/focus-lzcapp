@@ -1,0 +1,17 @@
+package: community.lazycat.app.focus
+version: 1.0.1
+name: Focus
+description: "即时从图像中移除背景 - 一款由 withoutBG Focus v1.0.0 开源模型驱动的自托管网络应用程序，可选 Pro API 访问以获得顶级质量。"
+min_os_version: 1.5.0
+homepage: https://github.com/withoutbg/withoutbg
+author: withoutbg
+permissions:
+  required:
+    - net.internet
+locales:
+  zh:
+    name: "Focus"
+    description: "即时从图像中移除背景 - 一款由 withoutBG Focus v1.0.0 开源模型驱动的自托管网络应用程序，可选 Pro API 访问以获得顶级质量。"
+  en:
+    name: "Focus"
+    description: "Remove backgrounds from images instantly - A self-hosted web application powered by the withoutBG Focus v1.0.0 open-source model with optional Pro API access for best-in-class quality."
